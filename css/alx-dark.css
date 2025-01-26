@@ -973,6 +973,11 @@ div.dialog > p {
 div.dialog > center {
   color: #006400 !important;
 }
+/* dark header */
+body.dark .header {
+  background-color:#121212 !important; 
+}
+
 /* Error Page Fix - End */
 
 /* Main styles ends here */
